@@ -10,5 +10,11 @@
     #mySidebar.offcanvas-start {
       width: 240px !important;
     }
+form button[type="submit"]:hover {
+  background-color: #dbf20b;
+}
+form button[type="reset"]:hover {
+  background-color: #f70e0e;
+}
   </style>
 </head>
