@@ -48,7 +48,6 @@ ob_start();
 </style>
 
 <div class="container py-5">
-    <!-- Hero 简洁版 -->
     <div class="row align-items-center mb-5">
         <div class="col-lg-7">
             <h1 class="fw-bold text-dark mb-3">Woola Company Admin System</h1>
@@ -75,8 +74,6 @@ ob_start();
             </div>
         </div>
     </div>
-
-    <!-- 功能模块卡片区 -->
     <h3 class="fw-semibold text-dark mb-4">Quick Modules</h3>
     <div class="row g-4 mb-5">
         <div class="col-md-3">
@@ -120,8 +117,6 @@ ob_start();
             </div>
         </div>
     </div>
-
-    <!-- System Features 说明板块 -->
     <div class="card border-0 shadow-sm rounded-4 p-5 soft-gradient">
         <h3 class="fw-semibold mb-4">System Features</h3>
         <div class="row g-4">
