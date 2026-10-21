@@ -51,20 +51,22 @@ ob_start();
                         <th>Product</th>
                         <th>Unit Price</th>
                         <th>Quantity</th>
+                        <th>Brand</th>
                         <th class="text-end">Amount</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Road Bike</td>
-                        <td>$1,200.00</td>
+                        <td>Wool Sweater</td>
+                        <td>RM 89.00</td>
                         <td>1</td>
-                        <td class="text-end">$1,200.00</td>
+                        <td>WoolCraft</td>
+                        <td class="text-end">RM 89.00</td>
                     </tr>
-                    <tr><td colspan="5" class="text-center">No products added to this order</td></tr>
+                    <tr><td colspan="6" class="text-center">No products added to this order</td></tr>
                 </tbody>
-                <tfoot><tr><th colspan="4" class="text-end">Grand Total</th><th class="text-end">$1,200.00</th></tr></tfoot>
+                <tfoot><tr><th colspan="5" class="text-end">Grand Total</th><th class="text-end">RM 89.00</th></tr></tfoot>
             </table>
         </div>
         <a href="orderdetails.php" class="btn btn-secondary"><i class="bi bi-arrow-left me-1"></i>Back to Details</a>

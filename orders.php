@@ -93,7 +93,7 @@ ob_start();
                         <td>Jane Smith</td>
                         <td>Alice Johnson</td>
                         <td>
-                            <a href="order_details.php" class="btn btn-sm btn-info text-white" title="Order details"><i class="bi bi-list"></i></a>
+                            <a href="orderdetails.php" class="btn btn-sm btn-info text-white" title="Order details"><i class="bi bi-list"></i></a>
                             <a href="invoice.php" class="btn btn-sm btn-success" title="View invoice"><i class="bi bi-receipt"></i></a>
                             <a href="#" class="btn btn-sm btn-warning"><i class="bi bi-pencil"></i></a>
                             <a href="#" class="btn btn-sm btn-danger"><i class="bi bi-trash"></i></a>
